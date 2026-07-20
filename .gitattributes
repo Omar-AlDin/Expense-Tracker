@@ -1,3 +1,10 @@
+*.cpp linguist-vendored
+*.hpp linguist-vendored
+*.c linguist-vendored
+*.h linguist-vendored
+*.cc linguist-vendored
+*.cmake linguist-vendored
+CMakeLists.txt linguist-vendored
 android/** linguist-vendored
 ios/** linguist-vendored
 windows/** linguist-vendored
